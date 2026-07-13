@@ -38,11 +38,11 @@ The LDR senses the surrounding light intensity. During daylight, its resistance 
 
 ### Tinkercad Circuit
 
-![Tinkercad Circuit](Images/Tinkercad_Circuit.png)
+![Tinkercad Circuit](LumiSense/Images/Tinkercad_Circuit.png)
 
 ### Physical Hardware Prototype
 
-![Physical Prototype](Images/Physical_Prototype.png)
+![Physical Prototype](LumiSense/Images/Physical_Prototype.png)
 
 ---
 
